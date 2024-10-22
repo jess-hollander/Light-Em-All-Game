@@ -28,4 +28,5 @@ https://github.com/user-attachments/assets/9ce8a8b6-e97c-44a4-b202-130beac134a8
 2. Click the *Run* tab, then *Run Configurations*
 3. Name the configuration whatever you would like, select the *Project* as your project, the *Main Class* as tester.Main, then (under the *Arguments* tab) enter "ExamplesLightEmAll" for *Program arguments*.
 4. Finally click *Run* and play the game
-"*" The game will run with the default starter board of a 10 x 10 grid. To change the dimensions of your game, navigate to line 95 in the *ExamplesLightEmAll.java* file, and change the integers in "new LightEmAll(10, 10)" to your desired board dimensions. Width is the first integer, and height is the second. (reccomended to play at least width 7 for proper viewing)
+
+Note: The game will run with the default starter board of a 10 x 10 grid. To change the dimensions of your game, navigate to line 95 in the *ExamplesLightEmAll.java* file, and change the integers in "new LightEmAll(10, 10)" to your desired board dimensions. Width is the first integer, and height is the second. (reccomended to play at least width 7 for proper viewing)
