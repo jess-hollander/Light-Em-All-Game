@@ -17,11 +17,11 @@ https://github.com/user-attachments/assets/9ce8a8b6-e97c-44a4-b202-130beac134a8
 
 ## Instructions for Download (with requested source code)
 1. Install and set up EclipseIDE application
-2. Download LightEmAll.zip file and javalib.jar, tester.jar files
-3. Extract the LightEmAll.zip file in your local File Explorer
+2. Download *LightEmAll.zip* file and *javalib.jar*, *tester.jar* files
+3. Extract the *LightEmAll.zip* file in your local File Explorer
 4. In the File Menu, select *New* then *Java Project*. Select *Finish* and name the file whatever you would like
-5. Highlight your new project in the Package Explorer pane, then right-click it and select *Properties*. Select the *Java Build Path*, then the *Libraries* tab, then click *Add External JARs*. Select the javalib.jar and tester.jar files to import
-6. Then, in your project, highlight the *src* tab. In the File Menu select *Import*. Navigate to your directory that contains the extracted LightEmAll.zip files, select all files within the folder and click *Finish*
+5. Highlight your new project in the Package Explorer pane, then right-click it and select *Properties*. Select the *Java Build Path*, then the *Libraries* tab, then click *Add External JARs*. Select the *javalib.jar* and *tester.jar* files to import
+6. Then, in your project, highlight the *src* tab. In the File Menu select *Import*. Navigate to your directory that contains the extracted *LightEmAll.zip* files, select all files within the folder and click *Finish*
 
 ## Instructions to Play Game
 1. Open the *ExamplesLightEmAll.java* file in the *src* folder under your project
